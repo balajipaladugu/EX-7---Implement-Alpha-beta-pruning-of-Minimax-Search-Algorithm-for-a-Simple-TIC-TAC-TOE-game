@@ -210,8 +210,8 @@ if __name__ == "__main__":
 <hr>
 <h2> Input and Output:</h2>
 
-<img width="492" height="600" alt="image" src="https://github.com/user-attachments/assets/19923dc2-b35c-486a-a1f9-cccc6a870257" />
-<img width="421" height="722" alt="image" src="https://github.com/user-attachments/assets/8b76ab01-9956-4b78-ab3f-ed1a2ee5f35e" />
+!<img width="492" height="600" alt="image" src="https://github.com/user-attachments/assets/19923dc2-b35c-486a-a1f9-cccc6a870257" />
+!<img width="421" height="722" alt="image" src="https://github.com/user-attachments/assets/8b76ab01-9956-4b78-ab3f-ed1a2ee5f35e" />
 
 
 ## RESULT
